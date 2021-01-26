@@ -5,6 +5,8 @@
 - Node.js 15.6.0
 - deno
 - Firefox Developer Edition
+- GitHub Desktop
+- Git 2.28.0.windows.1
 
 ### VSCode Extension
 - teabyii.ayu
