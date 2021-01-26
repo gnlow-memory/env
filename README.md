@@ -1,6 +1,11 @@
 # env
-작업 환경
+개발 환경
 ## Dev
+- VSCode
+- Node.js 15.6.0
+- deno
+- Firefox Developer Edition
+
 ### VSCode Extension
 - teabyii.ayu
   - mirage
