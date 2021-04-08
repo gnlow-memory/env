@@ -1,7 +1,8 @@
 # env
 개발 환경
+
 ## Dev
-- VSCode
+- Visual Studio Code
 - Node.js 15.6.0
 - deno
 - Firefox Developer Edition
@@ -17,3 +18,14 @@
 - svelte.svelte-vscode
 - randomfractalsinc.vscode-data-preview
 - hookyqr.beautify
+
+## Art
+- Figma
+
+## Document
+- MS Office (Word, Excel, PowerPoint)
+- Typora
+
+## Data
+- QStudioMetrics 
+- QGIS
