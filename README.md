@@ -3,6 +3,7 @@
 
 ## OS
 - Windows 11
+- ExplorerPatcher
 - TranslucentTB
   - Desktop: Clear
   - Maximized window: Normal
@@ -11,11 +12,11 @@
   - Default.ini
 - Advanced System Font Changer
   - Title bar: Pretendard SemiBold, 10pt
-  - Menu: Pretendard Light, 10pt
-  - Message box: Pretendard Light, 12pt
-  - Secondary title: Pretendard Light, 12pt
-  - Icon: Pretendard Light, 12pt
-  - Status bar: Pretendard Light, 12pt
+  - Menu: Pretendard Medium, 10pt
+  - Message box: Pretendard Medium, 12pt
+  - Secondary title: Pretendard Medium, 12pt
+  - Icon: Pretendard, 12pt
+  - Status bar: Pretendard Medium, 12pt
 
 ## Dev
 - Visual Studio Code
