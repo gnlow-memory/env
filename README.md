@@ -3,6 +3,10 @@
 
 ## OS
 - Windows 11
+- WSL2
+  - Ubuntu 20.04.4
+  
+### Extension
 - ExplorerPatcher
 - TranslucentTB
   - Desktop: Clear
@@ -21,7 +25,10 @@
 ## Dev
 - Visual Studio Code
 - Node.js 15.6.0
-- deno
+- deno 1.23.4
+  - typescript 4.7.4
+- python 3.10.6
+- GHC 8.10.7
 - Firefox Developer Edition
 - GitHub Desktop
 - Git 2.28.0.windows.1
